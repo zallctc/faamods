@@ -1,0 +1,290 @@
+{
+  "users": {
+    "6283199373983@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283199373983@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 9999,
+      "premium": true,
+      "afkTime": -1,
+      "lastclaim": 1732027280285,
+      "regTime": -1,
+      "resellerpanel": false
+    },
+    "6289668164759@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6289668164759@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 1000,
+      "premium": "true",
+      "afkTime": -1,
+      "lastclaim": 1732027744565,
+      "regTime": -1
+    },
+    "628816731775@s.whatsapp.net": {
+      "registered": true,
+      "nick": "rissxd",
+      "age": 18,
+      "sn": "RISS-XD-6pnT2XUBPk",
+      "limit": 1027,
+      "premium": "true",
+      "afkTime": -1,
+      "lastclaim": 1732785099016,
+      "regTime": 1732852842831,
+      "resellerpanel": false
+    },
+    "6285876219607@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6285876219607@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1732863279542,
+      "regTime": -1,
+      "resellerpanel": false
+    },
+    "6281260247270@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6281260247270@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1732863285726,
+      "regTime": -1,
+      "resellerpanel": false
+    },
+    "120363352373019682@g.us": {
+      "registered": false,
+      "nick": "6285876219607@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1732863286103,
+      "regTime": -1,
+      "resellerpanel": false
+    },
+    "6283189522753@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6283189522753@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": false,
+      "afkTime": -1,
+      "lastclaim": 1732863375827,
+      "regTime": -1,
+      "resellerpanel": false
+    },
+    "6287775627810@s.whatsapp.net": {
+      "registered": false,
+      "nick": "6287775627810@s.whatsapp.net",
+      "age": 0,
+      "sn": 0,
+      "limit": 0,
+      "premium": "false",
+      "afkTime": -1,
+      "lastclaim": 1732863376173,
+      "regTime": -1,
+      "resellerpanel": false
+    }
+  },
+  "chats": {
+    "62882008961541@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false
+    },
+    "6289668164759@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false,
+      "antivirtex": false,
+      "resellerpanelgrup": false
+    },
+    "628816731775@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false,
+      "antivirtex": false,
+      "resellerpanelgrup": false
+    },
+    "6283124796095@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false,
+      "antivirtex": false,
+      "resellerpanelgrup": false
+    },
+    "6289505805992@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false,
+      "antivirtex": false,
+      "resellerpanelgrup": false
+    },
+    "628561805501@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false,
+      "antivirtex": false,
+      "resellerpanelgrup": false
+    },
+    "6281224550039@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false,
+      "antivirtex": false,
+      "resellerpanelgrup": false
+    },
+    "6282286487441@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false,
+      "antivirtex": false,
+      "resellerpanelgrup": false
+    },
+    "628983821714@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false,
+      "antivirtex": false,
+      "resellerpanelgrup": false
+    },
+    "6283189522753@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false,
+      "antivirtex": false,
+      "resellerpanelgrup": false
+    },
+    "6283863065976@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false,
+      "antivirtex": false,
+      "resellerpanelgrup": false
+    },
+    "6285175247520@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false,
+      "antivirtex": false,
+      "resellerpanelgrup": false
+    },
+    "6285246958072@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false,
+      "antivirtex": false,
+      "resellerpanelgrup": false
+    },
+    "6281260247270@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false,
+      "antivirtex": false,
+      "resellerpanelgrup": false
+    },
+    "6283897150466@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false,
+      "antivirtex": false,
+      "resellerpanelgrup": false
+    },
+    "6282299861564@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false,
+      "antivirtex": false,
+      "resellerpanelgrup": false
+    },
+    "62856954314437@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false,
+      "antivirtex": false,
+      "resellerpanelgrup": false
+    },
+    "120363352373019682@g.us": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false,
+      "antivirtex": false,
+      "resellerpanelgrup": false
+    },
+    "6282210571208@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false,
+      "antivirtex": false,
+      "resellerpanelgrup": false
+    },
+    "60183686707@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false,
+      "antivirtex": false,
+      "resellerpanelgrup": false
+    },
+    "6289601470619@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false,
+      "antivirtex": false,
+      "resellerpanelgrup": false
+    },
+    "6285876219607@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false,
+      "antivirtex": false,
+      "resellerpanelgrup": false
+    },
+    "62856432415923@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false,
+      "antivirtex": false,
+      "resellerpanelgrup": false
+    },
+    "6285806902126@s.whatsapp.net": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false,
+      "antivirtex": false,
+      "resellerpanelgrup": false
+    },
+    "120363315495507467@g.us": {
+      "luminai": false,
+      "welcome": false,
+      "antilinkgc": false,
+      "antivirtex": false,
+      "resellerpanelgrup": false
+    }
+  },
+  "game": {},
+  "settings": {
+    "62882008961541@s.whatsapp.net": {
+      "autobio": false
+    },
+    "hadiah": [],
+    "hadiahkadaluwarsa": [],
+    "628816731775@s.whatsapp.net": {
+      "autobio": false,
+      "autoread": true
+    }
+  },
+  "database": {},
+  "setting": {},
+  "others": {},
+  "sticker": {}
+}
